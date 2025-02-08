@@ -1,0 +1,20 @@
+.score-container {
+    width: 30vw;
+    display: flex;
+    gap: 12px;
+    justify-content: flex-end;
+}
+
+.result-container {
+    width: 30vw;
+    height: 30vh;
+}
+
+.button-container {
+    display: flex;
+    gap: 8px;
+}
+
+.game-button {
+    width: 10vw;
+}
