@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "ESNext",
+        "lib": ["es2017", "dom"],
+        "outDir": "./dist/scripts",
+        "rootDir": "./",
+        "strict": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["scripts", "script.ts"]
+}
